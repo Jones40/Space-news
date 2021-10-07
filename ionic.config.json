@@ -1,0 +1,7 @@
+{
+  "name": "spaceNews",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
